@@ -80,7 +80,7 @@ To run this Jupyter Notebook locally, follow these steps:
 1. **Clone the repository:**
     
     ```
-    git clone https://github.com/yourusername/customer-churn-prediction.git
+    git clone https://github.com/tamaxhh/Customer-Churn-Prediction.git
     cd customer-churn-prediction
     
     ```
