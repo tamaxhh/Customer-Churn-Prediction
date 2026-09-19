@@ -11,3 +11,4 @@ openpyxl
 joblib
 jupyter
 ipykernel
+statsmodels
