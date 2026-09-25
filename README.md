@@ -25,10 +25,11 @@
    * [Retention Segmentation](#retention-segmentation)
    * [Recommended Retention Actions](#recommended-retention-actions)
 9. [Results & Discussion](#9-results--discussion)
-10. [Business Insights & Retention Strategy](#10-business-insights--retention-strategy)
-11. [Conclusion & Future Work](#11-conclusion--future-work)
-12. [Contributing](#12-contributing)
-13. [License](#13-license)
+10. [Power BI Dashboard](#power-bi-dashboard)
+11. [Business Insights & Retention Strategy](#11-business-insights--retention-strategy)
+12. [Conclusion & Future Work](#12-conclusion--future-work)
+13. [Contributing](#13-contributing)
+14. [License](#14-license)
 
 ---
 
@@ -656,7 +657,19 @@ The project therefore treats churn prediction as more than a simple binary class
 
 ---
 
-# 10. Business Insights & Retention Strategy
+# Power BI Dashboard
+
+The interactive Power BI dashboard presents customer churn, risk segments, revenue exposure, and retention insights.
+
+[Open the Power BI dashboard file](Power_BI/Churn%20Retention%20Dashboard.pbix)
+
+![alt text](image-2.png)
+
+
+![alt text](image-1.png)
+---
+
+# 11. Business Insights & Retention Strategy
 
 The analysis highlights several customer groups that deserve attention from a retention perspective.
 
@@ -706,7 +719,7 @@ provides a more business-oriented approach than using churn prediction alone.
 
 ---
 
-# 11. Conclusion & Future Work
+# 12. Conclusion & Future Work
 
 This project developed a machine learning-based customer churn prediction and retention analytics workflow using telecom customer data.
 
@@ -762,7 +775,7 @@ Potential future improvements include:
 
 ---
 
-# 12. Contributing
+# 13. Contributing
 
 Contributions are welcome.
 
@@ -770,6 +783,6 @@ If you have suggestions for improvements, new features, additional analysis, or 
 
 ---
 
-# 13. License
+# 14. License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
